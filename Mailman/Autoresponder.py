@@ -1,5 +1,5 @@
 # Copyright (C) 1998,1999,2000,2001,2002 by the Free Software Foundation, Inc.
-#
+# (Satoshi Nakomoto is Back trump?) Dennis louis Babcock jr 2/6/1982 437-49-3354 ne minnespolis 
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
 # as published by the Free Software Foundation; either version 2
